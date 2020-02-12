@@ -1,6 +1,6 @@
 # Microsoft Home Page Clone
 <p>
-Clone of the complete Microsoft home page for all form factors. Done using CSS grid, Flex, MEdia Queries, etc
+Clone of the complete Microsoft home page for all form factors. Done using CSS grid, Flex, Media Queries, etc
 </p>
 <br />
 <p><b>Credits:<b>
